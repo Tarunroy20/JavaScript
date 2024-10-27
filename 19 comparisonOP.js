@@ -67,8 +67,8 @@ console.log (val1 == val2); // Outputs: true
     // - Compare two arrays `[1, 2, 3]` and `[1, 2, 3]` using both the equality (`==`) and strict equality (`===`) operators. What will the results be, and why?
 
 
-let arr1= [1, 2, 3]
-let arr2= [1, 2, 3];
+let arr1 = [1, 2, 3]
+let arr2 = [1, 2, 3];
 console.log(arr1 == arr2); // Outputs: false  /* i am not clear with this answer , i don't know  why is the false answer , whenever i will solve , i will share you */ 
 
 
