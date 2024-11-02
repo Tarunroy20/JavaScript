@@ -10,3 +10,15 @@ if (marks >= 30 && marks >= 80){
     console.log("Pass")
     console.log("Garde : A")
 }
+
+let marks1 = 80;
+if (marks1 >= 30 || marks1 >= 80){
+    console.log("Pass")
+    console.log("Garde : A")
+}
+
+let marks2 = 80;
+if (!(marks2 < 30)){
+    console.log("Pass")
+    console.log("Garde : A")
+}
